@@ -1,0 +1,57 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+bin/
+lib/
+include/
+pip-selfcheck.json
+
+# Node Modules (Frontend dependencies)
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Environment Variables & Secrets (CRITICAL)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+frontend/.env
+
+# Local Mock Database & JSON storage
+backend/app/db_store.json
+backend/db_store.json
+db_store.json
+
+# Python Caches & Compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.db
+*.sqlite
+.pytest_cache/
+.mypy_cache/
+
+# User Uploads & Media Assets (dynamic server state)
+backend/app/static/uploads/*
+backend/app/static/audios/*
+!backend/app/static/uploads/.gitkeep
+!backend/app/static/audios/.gitkeep
+
+# IDEs & System files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.DS_Store
+Thumbs.db
