@@ -288,6 +288,15 @@ Contributions make the open-source community an amazing place to learn, inspire,
 
 ---
 
+## 📬 Contact & Support
+
+*   **GitHub:** [@Sachin1817](https://github.com/Sachin1817)
+*   **Email:** [sachindevaraju49@gmail.com](mailto:sachindevaraju49@gmail.com)
+
+Project Link: [https://github.com/Sachin1817/AI-Study-Assistant](https://github.com/Sachin1817/AI-Study-Assistant)
+
+---
+
 ## 📜 License
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
